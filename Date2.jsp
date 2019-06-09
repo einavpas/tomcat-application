@@ -11,7 +11,7 @@ function myFunction() {
 
 <h2>DevOps Finel Project</h2>
 
-<p id="demo">Lests see what happans when you press the button</p>
+<p id="demo">Lests see what happens when you press the button</p>
 
 <button type="button" onclick="myFunction()">I'm the button</button>
 <div class="row">
