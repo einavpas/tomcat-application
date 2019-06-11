@@ -9,7 +9,7 @@ function myFunction() {
 </head>
 <body>
 
-<h2>DevOps Finel Project</h2>
+<h2>DevOps Final Project</h2>
 
 <p id="demo">Lests see what happens when you press the button</p>
 
